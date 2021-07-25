@@ -24,5 +24,5 @@ int main(void)
 {
   int N=4;
   Scored(N);
-  return 0;
+  return 0
 }
