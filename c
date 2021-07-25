@@ -23,6 +23,6 @@ void Scored(int N)
 int main(void) 
 {
   int N=4;
-  Scored(N);
+  Scored(N)
   return 0;
 }
